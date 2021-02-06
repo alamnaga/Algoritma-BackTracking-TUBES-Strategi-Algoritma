@@ -14,7 +14,7 @@ Permainan ini adalah permainan seekor kucing (Komputer) yang mengejar tikus (Man
 cing akan berlari mengejar tikus pada sebuah labirin yang berbentuk segi empat (ukuran 3x3 seperti contoh di atas).
 
 Adapun aturan permainannya adalah sebagai berikut:
-a. Kucing dan tikus hanya dapat berjalan 1 langkah melalui sisi yang bersisian dengan simpul tempatnya berada saat
+a. Kucing dan tikus hanya dapat berjalan 1 langkah melalui sisi yang bersisian tempatnya berada saat
 ini.
 b. Posisi awal tikus berada di 1 dan kucing berada di 9 (seperti pada gambar).
 c. Kucing dan tikus dapat mengetahui keberadaan posisi lawannya masing-masing.
